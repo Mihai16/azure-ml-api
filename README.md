@@ -5,6 +5,7 @@ This project demonstrates a real-world workflow from data sourcing to model depl
 ---
 
 ## 📦 Project Structure
+```text
 azure-ml-api/
 ├── app/ # Application code (API, logic)
 ├── scripts/ # Utility scripts (data ingestion, etc.)
@@ -14,7 +15,7 @@ azure-ml-api/
 ├── .venv/ # Virtual environment (excluded)
 ├── Dockerfile # Containerization config (to be added)
 └── README.md
-
+```
 ---
 
 ## 📥 Dataset Setup
